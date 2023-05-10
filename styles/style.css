@@ -99,7 +99,7 @@ main {
 }
 .search-buttons{
     justify-content: center;
-    padding-top: 18px;
+    padding: 18px 0;
     gap: 10px;
 }
 .search-buttons button{
